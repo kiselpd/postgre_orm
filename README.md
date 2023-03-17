@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Python и БД. ORM»
 
-![](readme_зтп/book_publishers_scheme.png)
+![](readme_png/book_publishers_scheme.png)
 
 ## *source/database.py* - модуль для работы с БД
 ```
